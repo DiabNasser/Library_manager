@@ -1,0 +1,15 @@
+/Users/diab/Projects/LabTwo/LabTwo/obj/Debug/net6.0/LabTwo.csproj.AssemblyReference.cache
+/Users/diab/Projects/LabTwo/LabTwo/obj/Debug/net6.0/LabTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diab/Projects/LabTwo/LabTwo/obj/Debug/net6.0/LabTwo.AssemblyInfoInputs.cache
+/Users/diab/Projects/LabTwo/LabTwo/obj/Debug/net6.0/LabTwo.AssemblyInfo.cs
+/Users/diab/Projects/LabTwo/LabTwo/obj/Debug/net6.0/LabTwo.csproj.CoreCompileInputs.cache
+/Users/diab/Projects/LabTwo/LabTwo/bin/Debug/net6.0/LabTwo
+/Users/diab/Projects/LabTwo/LabTwo/bin/Debug/net6.0/LabTwo.deps.json
+/Users/diab/Projects/LabTwo/LabTwo/bin/Debug/net6.0/LabTwo.runtimeconfig.json
+/Users/diab/Projects/LabTwo/LabTwo/bin/Debug/net6.0/LabTwo.dll
+/Users/diab/Projects/LabTwo/LabTwo/bin/Debug/net6.0/LabTwo.pdb
+/Users/diab/Projects/LabTwo/LabTwo/obj/Debug/net6.0/LabTwo.dll
+/Users/diab/Projects/LabTwo/LabTwo/obj/Debug/net6.0/refint/LabTwo.dll
+/Users/diab/Projects/LabTwo/LabTwo/obj/Debug/net6.0/LabTwo.pdb
+/Users/diab/Projects/LabTwo/LabTwo/obj/Debug/net6.0/LabTwo.genruntimeconfig.cache
+/Users/diab/Projects/LabTwo/LabTwo/obj/Debug/net6.0/ref/LabTwo.dll
